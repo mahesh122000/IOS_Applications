@@ -1,4 +1,4 @@
 # IOS_Applications
 
-This is a simple ios application using UIKit, It's a cards comparision game.
-This application is developed with help of tutorial videos of @codewithchris.
+These are simple ios applications using UIKit.
+These applications are developed with help of tutorial videos of @codewithchris.
